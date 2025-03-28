@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title><%= title %></title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles/main.css" type="text/css" />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <% if (typeof user === 'undefined') { %>
+        <li><a href="/register">Register</a></li>
+        <li><a href="/login">Login</a></li>
+        <% }else{ %>
+        <li><a href="/profile">Profile</a></li>
+        <% } %>
+      </ul>
+    </nav>
+    <main><%- body%></main>
+  </body>
+</html>
