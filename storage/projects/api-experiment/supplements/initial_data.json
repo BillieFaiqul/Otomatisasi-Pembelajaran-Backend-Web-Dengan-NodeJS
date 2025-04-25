@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Red T-shirt",
+    "price": 15.99,
+    "description": "A comfortable and stylish red T-shirt",
+    "slug": "red-t-shirt",
+    "createdAt": "2023-02-20T07:32:14.786Z",
+    "updatedAt": "2023-02-20T07:32:14.786Z",
+    "_id": { "$oid": "621578ce4f4a2e4c6406dc04" }
+  },
+  {
+    "name": "Black Jeans",
+    "price": 49.99,
+    "description": "A pair of black jeans with a slim fit",
+    "slug": "black-jeans",
+    "createdAt": "2023-02-20T07:32:14.786Z",
+    "updatedAt": "2023-02-20T07:32:14.786Z",
+    "_id": { "$oid": "621578ce4f4a2e4c6406dc05" }
+  },
+  {
+    "name": "Blue Hoodie",
+    "price": 29.99,
+    "description": "A cozy and warm blue hoodie with a front pocket",
+    "slug": "blue-hoodie",
+    "createdAt": "2023-02-20T07:32:14.786Z",
+    "updatedAt": "2023-02-20T07:32:14.786Z",
+    "_id": { "$oid": "621578ce4f4a2e4c6406dc06" }
+  },
+  {
+    "name": "White Sneakers",
+    "price": 79.99,
+    "description": "A pair of white sneakers with a comfortable sole",
+    "slug": "white-sneakers",
+    "createdAt": "2023-02-20T07:32:14.786Z",
+    "updatedAt": "2023-02-20T07:32:14.786Z",
+    "_id": { "$oid": "621578ce4f4a2e4c6406dc07" }
+  },
+  {
+    "name": "Yellow Raincoat",
+    "price": 45.99,
+    "description": "A waterproof yellow raincoat with a hood",
+    "slug": "yellow-raincoat",
+    "createdAt": "2023-02-20T07:32:14.786Z",
+    "updatedAt": "2023-02-20T07:32:14.786Z",
+    "_id": { "$oid": "621578ce4f4a2e4c6406dc08" }
+  },
+  {
+    "name": "Green Tote Bag",
+    "price": 19.99,
+    "description": "A sturdy green tote bag with a spacious interior",
+    "slug": "green-tote-bag",
+    "createdAt": "2023-02-20T07:32:14.786Z",
+    "updatedAt": "2023-02-20T07:32:14.786Z",
+    "_id": { "$oid": "621578ce4f4a2e4c6406dc09" }
+  },
+  {
+    "name": "Black T-shirt",
+    "price": 15.99,
+    "description": "A comfortable and stylish black T-shirt",
+    "slug": "black-t-shirt",
+    "createdAt": "2023-02-20T07:32:14.786Z",
+    "updatedAt": "2023-02-20T07:32:14.786Z",
+    "_id": { "$oid": "621578ce4f4a2e4c6406dc10" }
+  },
+  {
+    "name": "Green T-shirt",
+    "price": 15.99,
+    "description": "A comfortable and stylish green T-shirt",
+    "slug": "green-t-shirt",
+    "createdAt": "2023-02-20T07:32:14.786Z",
+    "updatedAt": "2023-02-20T07:32:14.786Z",
+    "_id": { "$oid": "621578ce4f4a2e4c6406dc11" }
+  },
+  {
+    "name": "Black Sneakers",
+    "price": 79.99,
+    "description": "A pair of black sneakers with a comfortable sole",
+    "slug": "black-sneakers",
+    "createdAt": "2023-02-20T07:32:14.786Z",
+    "updatedAt": "2023-02-20T07:32:14.786Z",
+    "_id": { "$oid": "621578ce4f4a2e4c6406dc12" }
+  },
+  {
+    "name": "Red Sneakers",
+    "price": 79.99,
+    "description": "A pair of red sneakers with a comfortable sole",
+    "slug": "red-sneakers",
+    "createdAt": "2023-02-20T07:32:14.786Z",
+    "updatedAt": "2023-02-20T07:32:14.786Z",
+    "_id": { "$oid": "621578ce4f4a2e4c6406dc13" }
+  }
+]
